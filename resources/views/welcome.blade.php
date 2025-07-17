@@ -27,8 +27,6 @@
     </style>
 </head>
 <body>
-
     <a href="/todos" class="btn">Todos</a>
-
 </body>
 </html>
